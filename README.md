@@ -1,3 +1,7 @@
+```python
+from bradley-woods import github-profile
+```
+
 ### 👋 Hi there, I'm Bradley!
 
 - 👨‍💻 I'm a Junior DevOps Engineer with experience in automation, virtualisation and containerisation.
