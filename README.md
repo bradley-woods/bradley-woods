@@ -8,3 +8,5 @@
 - 📫 Connect with me on:
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradley-christian-woods/)
+  
+  > *"The question of whether computers can think is like the question of whether submarines can swim." - E.W. Dijkstra*
