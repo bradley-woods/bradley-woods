@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Bradley!
 
-- 👨‍💻 I'm a Junior DevOps Engineer with experience in automation, virtualisation and containerisation
+- 👨‍💻 I'm a Junior DevOps Engineer with experience in automation, virtualisation and containerisation.
 - 🔭 I'm exploring cloud platforms such as AWS and continuously improving my skills in IaC and CI/CD.
 - 🌱 I'm always eager to learn; currently I'm enhancing my coding skills in Python and Bash.
 - 💬 Ask me about anything related to DevOps, Agile and Scrum.
