@@ -2,6 +2,8 @@
 from bradley-woods import github-profile
 ```
 
+---
+
 ### 👋 Hi there, I'm Bradley!
 
 - 👨‍💻 I'm a Junior DevOps Engineer with experience in automation, virtualisation and containerisation.
@@ -13,4 +15,12 @@ from bradley-woods import github-profile
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradley-christian-woods/)
   
+---
+  
   > *"The question of whether computers can think is like the question of whether submarines can swim." - E.W. Dijkstra*
+    
+    
+    
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bradley-woods&theme=tokyonight&show_icons=true&hide=issues,contribs)
+  
+
