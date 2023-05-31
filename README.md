@@ -15,9 +15,13 @@ from bradley-woods import github-profile
   
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bradley-woods&theme=tokyonight&show_icons=true&hide=issues,contribs)
-  
 > *"The question of whether computers can think is like the question of whether submarines can swim." - E.W. Dijkstra*
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bradley-woods&theme=tokyonight" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradley-woods&layout=compact" />
+  
+
 
 
   
