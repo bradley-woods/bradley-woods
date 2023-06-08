@@ -12,7 +12,21 @@ from bradley-woods import github-profile
 - 📫 Connect with me on:
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradley-christian-woods/)
-  
+
+---
+
+Languages & Tools:
+
+<div style="line-height:10px">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' width="60" height="60">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' width="60" height="60">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg' width="60" height="60">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg' width="60" height="60">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg' width="60" height="60">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg' width="60" height="60">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg' width="60" height="60">
+<div>
+
 ---
 
 > *"The question of whether computers can think is like the question of whether submarines can swim." - E.W. Dijkstra*
