@@ -19,6 +19,7 @@ from bradley-woods import github-profile
 ### 🚀 Languages
 
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)
+  ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=plastic)
   ![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=plastic)
   ![YAML Badge](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=plastic)
   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)
