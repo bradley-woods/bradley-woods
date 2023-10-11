@@ -8,7 +8,7 @@ from bradley-woods import github-profile
 - 🔭 I'm exploring cloud platforms such as AWS and continuously improving my skills in IaC and CI/CD.
 - 🌱 I'm always eager to learn; currently I'm enhancing my coding skills in Python and Bash.
 - 💬 Ask me about anything related to DevOps, Agile and Scrum.
-- 🗻 Fun fact: I've climbed mountains in 4 countries and looking for my next challenge!
+- 🗻 Fun fact: I've climbed mountains in 5 countries and looking for my next challenge!
 - 📫 Connect with me on:
 
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/bradley-christian-woods/)
